@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/Diffusion social augmentation for social recommendation.md",
+                "file": "动手学深度学习/Softmax回归.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffusion social augmentation for social recommendation"
+              "title": "Softmax回归"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +182,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7475f8acaa59609",
+  "active": "67eb245f47faebb7",
   "lastOpenFiles": [
+    "图片/Pasted image 20251122161252.png",
     "论文/Graph Neural Networks for Social Recommendation.md",
     "论文/Diffusion social augmentation for social recommendation.md",
+    "图片/Pasted image 20251122112849.png",
     "论文/基于协同信号聚合与条件扩散增强的社交推荐模型研究.md",
+    "动手学深度学习/自动微分.md",
+    "动手学深度学习/Softmax回归.md",
+    "动手学深度学习/线性回归的实现.md",
+    "动手学深度学习/线性回归.md",
+    "动手学深度学习/数据预处理.md",
+    "动手学深度学习/线性代数.md",
+    "图片/Pasted image 20251121134230.png",
+    "图片/Pasted image 20251121134120.png",
+    "旅游/长汀-冠豸山.md",
+    "旅游/天津-北京.md",
+    "旅游/南京-南昌.md",
     "RMUC2026规则重点.md",
     "数据结构与算法/有向无环图及其应用.md",
     "未命名.base",
@@ -201,9 +214,6 @@
     "数据结构与算法/图的基本定语与术语.md",
     "数据结构与算法/树与森林.md",
     "Obsidian",
-    "动手学深度学习/自动微分.md",
-    "动手学深度学习/线性代数.md",
-    "动手学深度学习/数据预处理.md",
     "2025-11-11.md",
     "未命名.canvas",
     "CS61A/Generators.md",
@@ -219,17 +229,7 @@
     "图片/Pasted image 20251104212117.png",
     "CS61A/Representation.md",
     "CS61A/Recursion.md",
-    "CS61A/Mutability.md",
-    "CS61A/Iterator.md",
-    "CS61A/Inheritance.md",
-    "CS61A/Data Abstraction.md",
-    "CS61A/Function.md",
-    "CS61A/Control.md",
-    "CS61A/Containers.md",
     "图片/Pasted image 20251028015547.png",
-    "图片/Pasted image 20251021203341.png",
-    "图片/Pasted image 20251021203417.png",
-    "图片/Pasted image 20251021202644.png",
-    "图片/Pasted image 20251021202546.png"
+    "图片/Pasted image 20251021203341.png"
   ]
 }
