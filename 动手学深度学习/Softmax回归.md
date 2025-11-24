@@ -127,7 +127,7 @@ $$l(\mathbf{y}, \hat{\mathbf{y}}) = - \log \hat{y}_k$$
 - 如果模型预测正确类别的概率 $\hat{y}_k \rightarrow 0$（完全错了），$\text{Loss} \rightarrow +\infty$（惩罚无限大）。
 这就是交叉熵损失如何迫使模型去提高正确类别的预测概率。
 
-# Softmax及其导数
+# Softmax及交叉熵损失的导数
 
 我们在上一部分定义了损失函数 $l = -\sum y_j \log \hat{y}_j$。
 为了通过梯度下降更新权重 $\mathbf{W}$，我们需要求损失函数 $l$ 对输入 logits $\mathbf{o}$ 的导数 $\partial l / \partial o_j$。
