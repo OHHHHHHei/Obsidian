@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/图的遍历.md",
+                "file": "动手学深度学习/多层感知机的从零开始实现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图的遍历"
+              "title": "多层感知机的从零开始实现"
             }
           }
         ]
@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 705.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,6 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -182,54 +181,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73759aaf9db03ade",
+  "active": "f7475f8acaa59609",
   "lastOpenFiles": [
-    "数据结构与算法/图的存储结构.md",
-    "数据结构与算法/图的遍历.md",
+    "README.md",
     "动手学深度学习/Softmax回归.md",
-    "动手学深度学习/自动微分.md",
-    "动手学深度学习/线性回归的实现.md",
+    "动手学深度学习/多层感知机的从零开始实现.md",
+    "动手学深度学习/多层感知机.md",
+    "Pasted image 20251126235507.png",
+    "Pasted image 20251126235310.png",
+    "Pasted image 20251126235123.png",
+    "Pasted image 20251126234849.png",
+    "动手学深度学习/数据预处理.md",
+    "动手学深度学习/图像分类数据集.md",
     "动手学深度学习/线性回归.md",
     "动手学深度学习/线性代数.md",
-    "数学建模/灰色关联分析.md",
-    "数学建模/Topsis.md",
-    "数学建模/整数规划.md",
+    "动手学深度学习/线性回归的实现.md",
+    "动手学深度学习/自动微分.md",
+    "动手学深度学习/Softmax回归的实现.md",
+    "动手学深度学习/softmax回归的简洁实现.md",
+    "Pasted image 20251126232314.png",
+    "数据结构与算法/有向无环图及其应用.md",
+    "数据结构与算法/最短路径.md",
+    "数据结构与算法/时间复杂度的计算.md",
+    "数据结构与算法/树与森林.md",
+    "数据结构与算法/图的遍历.md",
+    "数据结构与算法/图的存储结构.md",
+    "数据结构与算法/图的基本定语与术语.md",
+    "数据结构与算法/图的连通性.md",
+    "数据结构与算法/GCD与LCM.md",
+    "数据结构与算法/Huffman树及其应用.md",
+    "Pasted image 20251125174527.png",
+    "CS61A/Iterator.md",
+    "CS61A/Inheritance.md",
+    "CS61A/Sequences.md",
+    "CS61A/Representation.md",
     "图片/Pasted image 20251122161252.png",
-    "论文/Graph Neural Networks for Social Recommendation.md",
-    "论文/Diffusion social augmentation for social recommendation.md",
     "图片/Pasted image 20251122112849.png",
-    "论文/基于协同信号聚合与条件扩散增强的社交推荐模型研究.md",
-    "动手学深度学习/数据预处理.md",
     "图片/Pasted image 20251121134230.png",
     "图片/Pasted image 20251121134120.png",
-    "旅游/长汀-冠豸山.md",
-    "旅游/天津-北京.md",
-    "旅游/南京-南昌.md",
-    "RMUC2026规则重点.md",
-    "数据结构与算法/有向无环图及其应用.md",
     "未命名.base",
     "未命名 1.base",
-    "图片/Pasted image 20251118204809.png",
-    "图片/Pasted image 20251118204750.png",
-    "数据结构与算法/时间复杂度的计算.md",
-    "数据结构与算法/Huffman树及其应用.md",
-    "数据结构与算法/GCD与LCM.md",
-    "数据结构与算法/图的基本定语与术语.md",
-    "数据结构与算法/树与森林.md",
     "Obsidian",
-    "2025-11-11.md",
     "未命名.canvas",
-    "CS61A/Generators.md",
     "未命名 3.base",
     "未命名 12.base",
     "未命名 11.base",
     "未命名 10.base",
     "未命名 9.base",
     "未命名 8.base",
-    "未命名 7.base",
-    "图片/Pasted image 20251104213704.png",
-    "图片/Pasted image 20251104212131.png",
-    "图片/Pasted image 20251104212117.png",
-    "图片/Pasted image 20251028015547.png"
+    "未命名 7.base"
   ]
 }
