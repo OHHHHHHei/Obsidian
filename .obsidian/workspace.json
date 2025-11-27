@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "544c855c6722a5e5",
+        "id": "fe91b8f952785b48",
         "type": "tabs",
         "children": [
           {
-            "id": "73759aaf9db03ade",
+            "id": "fab0a7a23ed8317f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片/Pasted image 20251125174527.png"
+                "file": "动手学深度学习/暂退法 Dropout.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251125174527"
+              "icon": "lucide-file",
+              "title": "暂退法 Dropout"
             }
           }
         ]
@@ -162,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,18 +181,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be0098e096aa51f4",
+  "active": "fab0a7a23ed8317f",
   "lastOpenFiles": [
+    "动手学深度学习/权重衰减.md",
+    "动手学深度学习/暂退法 Dropout.md",
+    "动手学深度学习/模型选择，欠拟合和过拟合.md",
+    "Pasted image 20251127232326.png",
     "动手学深度学习/多层感知机的从零开始实现.md",
+    "动手学深度学习/多层感知机.md",
+    "动手学深度学习/数据预处理.md",
+    "动手学深度学习/图像分类数据集.md",
+    "图片/Pasted image 20251125174527.png",
     "README.md",
     "动手学深度学习/Softmax回归.md",
-    "动手学深度学习/多层感知机.md",
     "图片/Pasted image 20251126235507.png",
     "图片/Pasted image 20251126235310.png",
     "图片/Pasted image 20251126235123.png",
     "图片/Pasted image 20251126234849.png",
-    "动手学深度学习/数据预处理.md",
-    "动手学深度学习/图像分类数据集.md",
     "动手学深度学习/线性回归.md",
     "动手学深度学习/线性代数.md",
     "动手学深度学习/线性回归的实现.md",
@@ -208,15 +215,10 @@
     "数据结构与算法/图的连通性.md",
     "数据结构与算法/GCD与LCM.md",
     "数据结构与算法/Huffman树及其应用.md",
-    "图片/Pasted image 20251125174527.png",
     "CS61A/Iterator.md",
-    "CS61A/Inheritance.md",
-    "CS61A/Sequences.md",
-    "CS61A/Representation.md",
     "图片/Pasted image 20251122161252.png",
     "图片/Pasted image 20251122112849.png",
     "图片/Pasted image 20251121134230.png",
-    "图片/Pasted image 20251121134120.png",
     "未命名.base",
     "未命名 1.base",
     "Obsidian",
