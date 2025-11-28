@@ -164,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 663.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fab0a7a23ed8317f",
+  "active": "f7475f8acaa59609",
   "lastOpenFiles": [
     "动手学深度学习/权重衰减.md",
-    "动手学深度学习/暂退法 Dropout.md",
     "动手学深度学习/模型选择，欠拟合和过拟合.md",
+    "动手学深度学习/暂退法 Dropout.md",
     "Pasted image 20251127232326.png",
     "动手学深度学习/多层感知机的从零开始实现.md",
     "动手学深度学习/多层感知机.md",
