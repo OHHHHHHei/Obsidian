@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe91b8f952785b48",
+        "id": "c48b8c9fd309ff76",
         "type": "tabs",
         "children": [
           {
-            "id": "fab0a7a23ed8317f",
+            "id": "d40a2388cbb10221",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "动手学深度学习/深度学习计算/参数管理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "参数管理"
             }
           }
         ]
@@ -160,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 948.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,6 +183,8 @@
   },
   "active": "f7475f8acaa59609",
   "lastOpenFiles": [
+    "数据结构与算法/图论/最短路径.md",
+    "动手学深度学习/多层感知机/权重衰减.md",
     "数据结构与算法/时间复杂度的计算.md",
     "数据结构与算法/GCD与LCM.md",
     "数据结构与算法/查找/静态查找表.md",
@@ -186,7 +192,6 @@
     "数据结构与算法/查找/动态查找表.md",
     "数据结构与算法/树/树与森林.md",
     "数据结构与算法/树/Huffman树及其应用.md",
-    "数据结构与算法/图论/最短路径.md",
     "数据结构与算法/树",
     "数据结构与算法/图论/图的遍历.md",
     "数据结构与算法/图论",
@@ -217,7 +222,6 @@
     "动手学深度学习/线性神经网络/图像分类数据集.md",
     "动手学深度学习/多层感知机/多层感知机.md",
     "动手学深度学习/多层感知机/多层感知机的从零开始实现.md",
-    "动手学深度学习/多层感知机/权重衰减.md",
     "图片/Pasted image 20251129125439.png",
     "图片/Pasted image 20251129122918.png",
     "图片/Pasted image 20251127232326.png",
