@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/图论/最短路径.md",
+                "file": "动手学深度学习/卷积神经网络/图像卷积.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最短路径"
+              "title": "图像卷积"
             }
           }
         ]
@@ -181,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d40a2388cbb10221",
+  "active": "f7475f8acaa59609",
   "lastOpenFiles": [
-    "数据结构与算法/图论/图的存储结构.md",
+    "Pasted image 20251207000240.png",
     "数据结构与算法/图论/最短路径.md",
     "动手学深度学习/卷积神经网络/图像卷积.md",
+    "数据结构与算法/图论/图的存储结构.md",
     "动手学深度学习/卷积神经网络/从全连接层到卷积.md",
     "动手学深度学习/深度学习计算/GPU.md",
     "动手学深度学习/卷积神经网络",
@@ -222,7 +223,6 @@
     "动手学深度学习/线性神经网络/softmax回归的简洁实现.md",
     "动手学深度学习/基础知识/自动微分.md",
     "动手学深度学习/线性神经网络/线性回归.md",
-    "动手学深度学习/基础知识/数据预处理.md",
     "图片/Pasted image 20251129125439.png",
     "图片/Pasted image 20251129122918.png",
     "图片/Pasted image 20251127232326.png",
